@@ -91,7 +91,8 @@ AirTicketJavaServlet/
 3. **Configure Database Connection**
    - Update database credentials in `AirTic.java` and `TicketViewServlet.java`
    - Default connection: `jdbc:mysql://localhost:3306/ritesh`
-   - Username: `root`, Password: `ritesh` (modify as needed)
+   - Default credentials in code: Username: `root`, Password: `ritesh`
+   - ⚠️ **Security Note:** Change default credentials to secure values for production use
 
 4. **Deploy to Tomcat**
    - Copy the project to Tomcat's `webapps` directory
