@@ -149,10 +149,6 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 
 This project is open source and available for educational purposes.
 
-## 👨‍💻 Author
-
-**Ritesh Rohit Global Travels** - Air Ticket Booking System
-
 ---
 
 ⭐ If you find this project helpful, please consider giving it a star!
